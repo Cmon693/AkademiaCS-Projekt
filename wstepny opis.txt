@@ -1,2 +1,12 @@
-Hej
-hohohohohohohohohohohoho
+Temat projektu: Osobisty organizer.
+
+Chciałbym stworzyć program korzystając z technologii WPF, który miałby pomagać w codziennej organizacji oraz planowaniu zadań. Coś na kształt listy zadań do zrobienia (to-do list).
+
+Mam w planach zaimplementować w apliakcji m.in.:
+- dodawanie/usuwanie zadań do wykonania (z mozliwoscią ustawienia priorytetu, daty, przypomnienia itd.)
+- tworzenie podzadań
+- widok w formie listy (z możliwością sortowania po dacie, priorytecie itd.)
+- widok w formie tradycyjnego kalendarza (żeby zobaczyc jak wiele zadan przed nami)
+- grupowanie zadań np. tematycznie
+
+Mam jeszcze pare pomysłów, które być może wykorzystam kiedy dowiem się jakie będą pozostałe wymagania :)
