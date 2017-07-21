@@ -1,0 +1,16 @@
+Temat projektu: Osobisty organizer.
+Nazwa: Organizer.
+
+Link do filmu z omówieniem kodu:
+https://www.youtube.com/watch?v=_QH0-UD62fs
+W opisie filmiku jest tak¿e link do krótkiej prezentacji funkjonalnoœci.
+
+Aplikacje wykona³em w technologi ASP.NET z wykorzystaniem Entity Framework.
+W za³o¿eniach pocz¹tkowych pisa³em, ¿e technologi¹ bedzie WPF, ale pyta³em sie na facebooku i Micha³ Borowicz powiedzia³, ¿e nie ma problemu ¿ebym zmieni³ na asp.net.
+Zaimplementowa³em w aplikacji:
+- dodawanie nowych zadañ do bazy (oraz usuwanie i edytowanie)
+- wyœwietlanie szczegó³ów zadania, gdzie widoczne s¹ tak¿e podzadania
+- dodawanie, usuwanie, edytowanie podzadañ
+- mo¿liwoœæ zmiany widoku wyœwietlania zadañ za pomoc¹ wyszukiwania (mo¿na wyszukiwaæ po nazwie lub korzystaj¹c z kalendarzyka wybr¹c date i sprawdziæ czy mamy coœ zaplanowane na dany dzieñ)
+- sortowanie zadañ po nazwie, grupie, priorytecie, dacie
+
