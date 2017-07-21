@@ -9,10 +9,9 @@ namespace Organizer.Data
     {
         public static void Initialize(TaskContext context)
         {
-            context.Database.EnsureDeleted();
+            //context.Database.EnsureDeleted();
             context.Database.EnsureCreated();
 
-            // Look for any students.
             if (context.Tasks.Any())
             {
                 return;   // DB has been seeded
